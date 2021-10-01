@@ -6,7 +6,7 @@
         Link To HacktoberFest 2021
     </a>
 </h3>
-
+https://res.cloudinary.com/practicaldev/image/fetch/s--Gg3AHVhQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/of9b6i02ifmdq5zlbmkz.jpg
 ## Event details :
 
 - Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
