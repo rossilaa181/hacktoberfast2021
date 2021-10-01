@@ -6,7 +6,6 @@
         Link To HacktoberFest 2021
     </a>
 </h3>
-![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--Gg3AHVhQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/of9b6i02ifmdq5zlbmkz.jpg)
 
 ## Event details :
 
@@ -36,6 +35,7 @@ To earn your Hacktoberfest tee or tree reward, you must register and make four v
 -   Use any language.
 -   C, C++, JAVA, Data Structure and Algorithms, HTML, CSS, Android Projects.
 -   Anything valuable.
+![Alt Text](https://res.cloudinary.com/practicaldev/image/fetch/s--Gg3AHVhQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/of9b6i02ifmdq5zlbmkz.jpg)
 
 ## Steps For Contribution
 
